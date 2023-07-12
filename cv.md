@@ -1,6 +1,5 @@
 # Mariia Ostroumova
-
-[](/assets/photo.jpg)
+![Photo](./assets/photo.jpg)
 
 ## Intern frontend developer
 
@@ -19,3 +18,4 @@ I came to study at Rolling Scopes School to get the programming skills of a fron
 
 [def]: /assets/photo.jpg
 [def2]: /image/my_photo.jpg
+[/assets/photo.jpg]: /assets/photo.jpg
