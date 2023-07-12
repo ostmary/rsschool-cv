@@ -1,1 +1,1 @@
-https://ostmary.github.io/rsschool-cv-html/
+https://ostmary.github.io/rsschool-cv/
