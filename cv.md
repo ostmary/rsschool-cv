@@ -1,4 +1,7 @@
 # Mariia Ostroumova
+
+[](/assets/photo.jpg)
+
 ## Intern frontend developer
 
 ### Contact
@@ -13,3 +16,5 @@ I came to study at Rolling Scopes School to get the programming skills of a fron
 * _Kanban_
 * _Jira_
 * _Chrome DevTools_   
+
+[def]: /assets/photo.jpg
