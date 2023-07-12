@@ -1,5 +1,5 @@
 # Mariia Ostroumova
-![Photo](/assets/photo.jpg)
+![Photo](./assets/photo.jpg)
 
 ## Intern frontend developer
 
